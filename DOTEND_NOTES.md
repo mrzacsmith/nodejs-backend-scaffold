@@ -1,0 +1,5 @@
+PORT=6555
+
+DB_ENV='development'
+JWT_SECRET
+JWT_HASH_ROUNDS=14
